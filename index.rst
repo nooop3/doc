@@ -6,12 +6,19 @@
 Welcome to xmulectdoc's documentation!
 ======================================
 
+可以用中文吗？
+
+This documentation is roughly written now, we will make it readable as soon.
+
 Contents:
 
 .. toctree::
    :maxdepth: 2
 
+   sphinx/toc.rst
+   git/toc.rst
    wpsites/toc.rst
+
 
 
 Indices and tables

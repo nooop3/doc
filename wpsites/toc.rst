@@ -12,7 +12,6 @@ New WordPress sites
    wp_install.rst
    wp_settings.rst
    wp_theme_dev.rst
-   git_intro.rst
 
   
 
