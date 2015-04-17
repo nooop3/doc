@@ -12,7 +12,7 @@ We wish mainly three goals via this doc:
 
 * To provide the new comers a quick start guide.
 * To build a collaborative standard.
-* The detailed documentation of our product.
+* The detailed documentation of our project.
 
 The documentation is arranged as (also see the TOC below):
 

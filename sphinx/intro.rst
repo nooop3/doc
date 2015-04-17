@@ -5,9 +5,25 @@
 Sphinx introduction
 *******************
 
-Sphinx documentation tool is briefly introduced in this section.
+`Sphinx <http://sphinx-doc.org/index.html>`_ documentation tool is briefly introduced in this section.
 
-Sphinx doc is written with `reStructuredText <http://docutils.sourceforge.net/rst.html>`_ markup language. 
+Sphinx doc is written with `reStructuredText <http://docutils.sourceforge.net/rst.html>`_ (reST) markup language. 
+reST is a `lightweight markup language <http://en.wikipedia.org/wiki/Lightweight_markup_language>`_.
+
+Advantages of documentation with reST - Sphinx:
+
+* Clean markup, raw plain text is also readable, instead of the sophisticated markup language, like HTML and LaTeX.
+* Managable for structured, large documentations, *i.e.* write books.
+* Supporting locally output form: html, pdf, epub ... with Sphinx.
+* Web hosted, https://readthedocs.org/, load the raw text from Github, for collaborative documentation writing.
+
+some useful online resources:
+
+* Sphinx official documentation, http://sphinx-doc.org/contents.html. 
+  Especially the **short introduction of reST markup**, http://sphinx-doc.org/rest.html.
+* The rest-sphinx-memo doc, for the very detailed markup examples, http://rest-sphinx-memo.readthedocs.org/en/latest/index.html.
+* The Sphinx doc hosting site: https://readthedocs.org/, 
+  and it's documentation, https://docs.readthedocs.org/en/latest/index.html.
 
 
 Use the theme locally

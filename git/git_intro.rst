@@ -66,6 +66,8 @@ http://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes
 References:
 ===========
 
+http://sixrevisions.com/web-development/git-tips/
+
 http://www.git-tower.com/learn/ebook/command-line/introduction
 
 http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1
