@@ -7,6 +7,8 @@ Sphinx introduction
 
 Sphinx documentation tool is briefly introduced in this section.
 
+Sphinx doc is written with `reStructuredText <http://docutils.sourceforge.net/rst.html>`_ markup language. 
+
 
 Use the theme locally
 =====================
