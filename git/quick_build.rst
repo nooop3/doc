@@ -1,9 +1,11 @@
 
-.. _git_intro:
+.. _git_quick_build:
 
-****************
-Collab using git
-****************
+****************************
+Quick build a Git repository
+****************************
+
+
 
 
 Basic configuration after installation
@@ -25,6 +27,9 @@ http://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup
 Build git repository
 ====================
 
+From a existed local directory
+------------------------------
+
 build, at the root of project directory::
 
   git init
@@ -36,6 +41,9 @@ then add all files::
 then commit::
 
   git commit -m "add all"
+
+From remote (Github) cloning
+----------------------------
 
 detailed reference:
 

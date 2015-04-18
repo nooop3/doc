@@ -9,7 +9,9 @@ Git collabration tool
    :maxdepth: 2
    :numbered:
 
-   git_intro.rst
+   intro.rst
+   quick_build.rst
+   basic_operation.rst
 
   
 

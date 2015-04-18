@@ -19,11 +19,11 @@ Advantages of documentation with reST - Sphinx:
 
 some useful online resources:
 
-* Sphinx official documentation, http://sphinx-doc.org/contents.html. 
+* Sphinx `official documentation <http://sphinx-doc.org/contents.html>`_. 
   Especially the **short introduction of reST markup**, http://sphinx-doc.org/rest.html.
-* The rest-sphinx-memo doc, for the very detailed markup examples, http://rest-sphinx-memo.readthedocs.org/en/latest/index.html.
-* The Sphinx doc hosting site: https://readthedocs.org/, 
-  and it's documentation, https://docs.readthedocs.org/en/latest/index.html.
+* The `rest-sphinx-memo doc <http://rest-sphinx-memo.readthedocs.org/en/latest/index.html>`_, for the very detailed markup examples.
+* The Sphinx doc hosting site, `Read the Docs <https://readthedocs.org/>`_, 
+  and it's `documentation <https://docs.readthedocs.org/en/latest/index.html>`_.
 
 
 Use the theme locally
